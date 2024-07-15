@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Hazel (she/her) and I'm currently learning python and SQL. 
+I have a cat called Pretzel and he is very cute.
 <!--
 **hazelb0t/hazelb0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
